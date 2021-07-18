@@ -1,0 +1,8 @@
+.eventos{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+}
+.eventos div{
+    margin: 10px;
+}

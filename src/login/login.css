@@ -1,0 +1,63 @@
+.login{
+  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    height: 90vh;
+    
+}
+.login h1{
+    color:#95a5a6;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.formulario{
+    display: grid;
+    grid-template-rows: auto auto auto;
+    grid-template-columns: 300px;
+   
+}
+.formulario input{
+    margin: 7px 0px;
+    height: 30px;
+    outline: none;
+    font-size: 1rem;
+    padding: 6px 3px;
+}
+.formulario button{
+    padding: 10px 0px;
+    cursor: pointer;
+    border: none;
+    font-size: 1.2rem;
+    outline: none;
+    color: #fff;
+    background-color: rgb(53, 99, 100);
+}
+.formulario button:hover{
+    background-color: cadetblue;
+}
+.opcoes-login{
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+    margin-top: 10px;
+}
+.opcoes-login a{
+    color: rgba(255, 255, 255, 0.626);
+    margin-top: 5px;
+    text-decoration: none;
+}
+.opcoes-login a:hover{
+    color: rgba(255, 255, 255, 0.865);
+}
+.alerta-mensagem{
+    margin-top: 10px;
+    color: #fff;
+    font-size: 0.8rem;
+    color: crimson;
+}
+.fa-glass-cheers{
+    color: #95a5a6;
+}

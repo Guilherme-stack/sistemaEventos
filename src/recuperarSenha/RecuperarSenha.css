@@ -1,0 +1,18 @@
+.recuperar-senha{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+.btn-enviar{
+    background-color:#95a5a6 ;
+    color: #fff;
+    margin-top: 20px;
+}
+.tituloRecuperar{
+    color:#95a5a6;
+    margin-bottom: 20px;
+}
+.msg{
+    margin-top: 10px;
+    color: #95a5a6;
+}

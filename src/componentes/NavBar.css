@@ -1,0 +1,12 @@
+.navbar{
+    background-color: #95a5a6;
+    color: #fff;
+}
+.navbar a{
+    color: #fff;
+}
+.navbar-toggler{
+    
+   outline: none;
+}
+ 

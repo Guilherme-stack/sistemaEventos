@@ -1,0 +1,40 @@
+.cadastro{
+    width: 70%;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.cadastrar-evento{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.descricao-evento{
+    display: flex;
+    flex-direction: column;
+}
+.arquivo-evento{
+   display: flex;
+   flex-direction: column;
+    margin-top: 10px;
+}
+.data-evento div{
+     display: flex;
+     flex-direction: column;
+     width: 50%;
+}
+.data-evento{
+    display: flex;
+    flex-direction: row;
+}
+.btn-publicar{
+    margin-top: 20px;
+    padding: 7px;
+    width: 100%;
+    background-color: #95a5a6;
+    color: #fff;
+}
+.titulo-evento{
+    color: #95a5a6;
+    margin-top: 10px;
+}
